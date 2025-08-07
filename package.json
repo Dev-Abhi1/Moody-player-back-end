@@ -16,6 +16,7 @@
     "imagekit": "^6.0.0",
     "mongoose": "^8.17.0",
     "multer": "^2.0.2",
-    "nanoid": "^5.1.5"
+    "nanoid": "^5.1.5",
+    "prompt-async": "^0.9.9"
   }
 }
